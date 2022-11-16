@@ -1,7 +1,5 @@
 # PBI-Online-Retail-Data-Visualization
-Analysed and visualized an online retail company's data to find opportunities for expansion
-and answer important business questions pertaning to the trends and breakdown by different sections
-to have clarity on how revenue is generated and the main factors affecting the online store.
+I analysed an online retail company's data to find opportunities for regional expansion. I extracted insights and patterns which answered important business questions and identified the main factors affecting the online store.
 
 I used Power BI to clean, manipulate (using DAX) and visualize the the data to extract insights.  
 ![Project Dashboard-1](https://user-images.githubusercontent.com/99233674/191893946-f9a4a1bf-f1d7-4d11-9df3-50a2062f2023.jpg)
